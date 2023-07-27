@@ -1,16 +1,14 @@
 {
   "name": "anran-utils",
-  "version": "1.0.0",
+  "version": "1.0.6",
   "description": "常用工具函数封装",
   "author": "WangYue",
   "license": "MIT",
   "homepage": "https://github.com/niunaibinggan/utils",
-  "main": "lib/anran-utils.cjs.js",
-  "module": "lib/anran-utils.esm.js",
-  "browser": "lib/anran-utils.umd.js",
-  "types": "src/index.d.ts",
+  "main": "lib/index.cjs.js",
+  "module": "lib/index.esm.js",
+  "browser": "lib/index.umd.js",
   "files": [
-    "src",
     "lib/*.js"
   ],
   "scripts": {
